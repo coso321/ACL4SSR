@@ -3,3 +3,4 @@ DOMAIN,deb.debian.org
 DOMAIN,autopatchhk.yuanshen.com
 DOMAIN,production.cloudflare.docker.com
 DOMAIN,heaven-burns-red-assets-ap.akamaized.net
+DOMAIN-SUFFIX,dl.sourceforge.net
