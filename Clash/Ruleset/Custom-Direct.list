@@ -61,3 +61,11 @@ DOMAIN-SUFFIX,qnssl.com
 DOMAIN-SUFFIX,qiniucdn.com
 DOMAIN-SUFFIX,qiniudns.com
 DOMAIN-SUFFIX,sandai.net
+
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,code.visualstudio.com
+
+IP-CIDR,119.29.29.29/32
+IP-CIDR,114.114.114.114/32
+DOMAIN,dig.bdurl.net
+DOMAIN,pagead2.googlesyndication.com
