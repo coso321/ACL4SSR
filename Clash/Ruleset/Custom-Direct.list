@@ -34,7 +34,6 @@ DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
 
-
 # finance
 DOMAIN-KEYWORD,westpac
 DOMAIN-KEYWORD,amex
@@ -43,3 +42,22 @@ DOMAIN-KEYWORD,mastercard
 DOMAIN-SUFFIX,australiansuper.com
 DOMAIN-KEYWORD,metatrader
 DOMAIN-KEYWORD,mql
+
+# China CDN
+DOMAIN-SUFFIX,tnkjmec.com
+DOMAIN-SUFFIX,clngaa.com
+DOMAIN-SUFFIX,ksyna.com
+DOMAIN-SUFFIX,bscstorage.net
+DOMAIN-SUFFIX,eccdnx.com
+DOMAIN-SUFFIX,pinyuncloud.com
+DOMAIN-SUFFIX,8686c.com
+DOMAIN-SUFFIX,pphimalayanrt.com
+DOMAIN-SUFFIX,qbox.me
+DOMAIN-SUFFIX,qiniu.com
+DOMAIN-SUFFIX,qiniudn.com
+DOMAIN-SUFFIX,qiniup.com
+DOMAIN-SUFFIX,qnsdk.com
+DOMAIN-SUFFIX,qnssl.com
+DOMAIN-SUFFIX,qiniucdn.com
+DOMAIN-SUFFIX,qiniudns.com
+DOMAIN-SUFFIX,sandai.net
