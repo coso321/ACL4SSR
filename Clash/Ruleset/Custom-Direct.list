@@ -3,6 +3,9 @@ DOMAIN-SUFFIX,gladns.com
 DOMAIN-SUFFIX,glados-config.net
 DOMAIN-SUFFIX,rnode.pro
 
+# ip check
+DOMAIN,freedns.afraid.org
+
 # torrent
 DOMAIN-KEYWORD,peer
 DOMAIN-KEYWORD,torrent
@@ -64,6 +67,7 @@ DOMAIN-SUFFIX,sandai.net
 
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,code.visualstudio.com
+DOMAIN-SUFFIX,github.com
 
 IP-CIDR,119.29.29.29/32
 IP-CIDR,114.114.114.114/32
@@ -77,3 +81,11 @@ IP-CIDR,17.0.0.0/8
 IP-CIDR,100.64.0.0/10
 IP-CIDR,172.16.0.0/12
 IP-CIDR,192.168.0.0/16
+
+DOMAIN-SUFFIX,wiz.world
+DOMAIN-SUFFIX,tuyaeu.com
+
+# somewhat don't work with proxy
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,nzb360.com
+
