@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,com.cn
 DOMAIN-SUFFIX,ol.epicgames.com
 
+DOMAIN-SUFFIX,nvidia.com
+
 # allowed safe trackers
 DOMAIN,graph.instagram.com
 DOMAIN,www.googleadservices.com
@@ -89,3 +91,6 @@ DOMAIN-SUFFIX,tuyaeu.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,nzb360.com
 
+# direct downloads
+DOMAIN,ali-q6-hotfix.sialiagames.com.tw
+DOMAIN-SUFFIX,fedoraproject.org
