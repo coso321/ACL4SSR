@@ -69,7 +69,6 @@ DOMAIN-SUFFIX,sandai.net
 
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,code.visualstudio.com
-DOMAIN-SUFFIX,github.com
 
 IP-CIDR,119.29.29.29/32
 IP-CIDR,114.114.114.114/32
@@ -94,3 +93,7 @@ DOMAIN-SUFFIX,nzb360.com
 # direct downloads
 DOMAIN,ali-q6-hotfix.sialiagames.com.tw
 DOMAIN-SUFFIX,fedoraproject.org
+
+# github
+IP-CIDR,20.205.243.166/32
+DOMAIN-SUFFIX,github.com
