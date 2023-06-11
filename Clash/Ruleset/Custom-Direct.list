@@ -91,3 +91,6 @@ DOMAIN-SUFFIX,nzb360.com
 # direct downloads
 DOMAIN,ali-q6-hotfix.sialiagames.com.tw
 DOMAIN-SUFFIX,fedoraproject.org
+
+# github
+IP-CIDR,20.205.243.166/32
