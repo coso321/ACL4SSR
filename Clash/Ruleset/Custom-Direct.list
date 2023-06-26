@@ -83,6 +83,7 @@ IP-CIDR,192.168.0.0/16
 
 DOMAIN-SUFFIX,wiz.world
 DOMAIN-SUFFIX,tuyaeu.com
+DOMAIN-SUFFIX,teams.microsoft.com
 
 # somewhat don't work with proxy
 DOMAIN-SUFFIX,themoviedb.org
@@ -91,4 +92,3 @@ DOMAIN-SUFFIX,nzb360.com
 # direct downloads
 DOMAIN,ali-q6-hotfix.sialiagames.com.tw
 DOMAIN-SUFFIX,fedoraproject.org
-
