@@ -12,3 +12,5 @@ DOMAIN,us.download.nvidia.com
 DOMAIN,download.docker.com
 DST-PORT,1337
 DST-PORT,6969
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,peer

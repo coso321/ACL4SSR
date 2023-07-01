@@ -7,8 +7,8 @@ DOMAIN-SUFFIX,rnode.pro
 DOMAIN,freedns.afraid.org
 
 # torrent
-DOMAIN-KEYWORD,peer
-DOMAIN-KEYWORD,torrent
+#DOMAIN-KEYWORD,peer
+#DOMAIN-KEYWORD,torrent
 
 # check first
 DOMAIN-SUFFIX,qq.com
