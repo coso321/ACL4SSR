@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,download.nvidia.com
 DOMAIN-KEYWORD,sonycoment
 DOMAIN,us.download.nvidia.com
 DOMAIN,download.docker.com
+DST-PORT,1337
+DST-PORT,6969
