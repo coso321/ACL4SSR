@@ -92,4 +92,7 @@ DOMAIN-SUFFIX,nzb360.com
 # direct downloads
 DOMAIN,ali-q6-hotfix.sialiagames.com.tw
 DOMAIN-SUFFIX,fedoraproject.org
-DOMAIN,steampipe.akamaized.net
+DOMAIN-SUFFIX,akamaized.net
+
+DOMAIN,teams.events.data.microsoft.com
+DOMAIN,pubsub.plex.tv
