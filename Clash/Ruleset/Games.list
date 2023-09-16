@@ -1,3 +1,7 @@
+# Genshin Impact
 DST-PORT,22101
 DST-PORT,22102
+# FF7EC
 DOMAIN-SUFFIX,ffviiec.com
+# Diablo Immortal
+DST-PORT,4120
