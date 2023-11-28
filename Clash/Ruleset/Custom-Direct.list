@@ -84,15 +84,29 @@ IP-CIDR,192.168.0.0/16
 DOMAIN-SUFFIX,wiz.world
 DOMAIN-SUFFIX,tuyaeu.com
 DOMAIN-SUFFIX,teams.microsoft.com
+DOMAIN-KEYWORD,teamsc
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,vpn.nvidia.com
+
+DOMAIN,ali-q6-hotfix.sialiagames.com.tw
+DOMAIN-SUFFIX,miaoacg.com
 
 # somewhat don't work with proxy
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,nzb360.com
 
 # direct downloads
-DOMAIN,ali-q6-hotfix.sialiagames.com.tw
+DOMAIN,mirrors.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,fedoraproject.org
 DOMAIN-SUFFIX,akamaized.net
+DOMAIN,download.docker.com
+DOMAIN-SUFFIX,delivery.mp.microsoft.com
 
 DOMAIN,teams.events.data.microsoft.com
 DOMAIN,pubsub.plex.tv
+
+DOMAIN,ali-q6-hotfix.sialiagames.com.tw
+DOMAIN-SUFFIX,gov.au
+
+DST-PORT,8443
+DST-PORT,3478
