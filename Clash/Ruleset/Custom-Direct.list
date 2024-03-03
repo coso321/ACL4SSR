@@ -83,6 +83,8 @@ IP-CIDR,192.168.0.0/16
 
 DOMAIN-SUFFIX,wiz.world
 DOMAIN-SUFFIX,tuyaeu.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN,teams.events.data.microsoft.com
 DOMAIN-SUFFIX,teams.microsoft.com
 DOMAIN-KEYWORD,teamsc
 DOMAIN-SUFFIX,microsoftonline.com
@@ -103,11 +105,11 @@ DOMAIN,download.docker.com
 DOMAIN,production.cloudflare.docker.com
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
 
-DOMAIN,teams.events.data.microsoft.com
 DOMAIN,pubsub.plex.tv
 
 DOMAIN,ali-q6-hotfix.sialiagames.com.tw
 DOMAIN-SUFFIX,gov.au
+DOMAIN-SUFFIX,zerossl.com
 
 DST-PORT,8443
 DST-PORT,3478
