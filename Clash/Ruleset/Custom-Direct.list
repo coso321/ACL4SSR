@@ -98,8 +98,9 @@ DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,nzb360.com
 
 # direct downloads
-DOMAIN-KEYWORD,mirrors
-DOMAIN,mirrors.tuna.tsinghua.edu.cn
+DOMAIN-KEYWORD,mirrors.
+DOMAIN-KEYWORD,mirror.
+DOMAIN-KEYWORD,ftp.
 DOMAIN-SUFFIX,fedoraproject.org
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN,download.docker.com
