@@ -13,5 +13,7 @@ DOMAIN,us.download.nvidia.com
 DST-PORT,1337
 DST-PORT,6969
 DOMAIN,rpmfusion.ip-connect.vn.ua
+DOMAIN,mirrors.rpmfusion.org
+DOMAIN,mirror.twds.com.tw
 DOMAIN,fedora.tu-chemnitz.de
 DOMAIN-SUFFIX,piwheels.org
