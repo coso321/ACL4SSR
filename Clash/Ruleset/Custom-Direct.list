@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,gladns.com
 DOMAIN-SUFFIX,glados-config.net
 DOMAIN-SUFFIX,rnode.pro
+DOMAIN-SUFFIX,cloudflare.com
 
 # ip check
 DOMAIN,freedns.afraid.org
@@ -106,6 +107,7 @@ DOMAIN-SUFFIX,akamaized.net
 DOMAIN,download.docker.com
 DOMAIN,production.cloudflare.docker.com
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
+DOMAIN,downloads.raspberrypi.com
 
 DOMAIN,pubsub.plex.tv
 
