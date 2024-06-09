@@ -106,9 +106,6 @@ DOMAIN-KEYWORD,mirror.
 DOMAIN-KEYWORD,ftp.
 DOMAIN-SUFFIX,fedoraproject.org
 DOMAIN-SUFFIX,akamaized.net
-DOMAIN,download.docker.com
-DOMAIN-SUFFIX,docker.io
-DOMAIN,production.cloudflare.docker.com
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
 DOMAIN,downloads.raspberrypi.com
 
