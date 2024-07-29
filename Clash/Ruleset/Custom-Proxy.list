@@ -1,17 +1,1 @@
-# dns
-IP-CIDR,1.1.1.1/32
-IP-CIDR,1.0.0.1/32
-IP-CIDR,8.8.8.8/32
-DOMAIN,dns.google
-
-# hot fix
-DOMAIN-KEYWORD,scholar
-DOMAIN-KEYWORD,discord
-DOMAIN,services.googleapis.cn
-DOMAIN,googleapis.cn
-DOMAIN-SUFFIX,ping.pe
-DOMAIN-SUFFIX,f2pool.com
-DOMAIN-SUFFIX,static.wikia.nocookie.net
-
 DOMAIN-KEYWORD,linkedin
-DOMAIN-SUFFIX,steamcommunity.com
