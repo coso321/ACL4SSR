@@ -102,9 +102,6 @@ DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,nzb360.com
 
 # direct downloads
-DOMAIN-KEYWORD,mirrors.
-DOMAIN-KEYWORD,mirror.
-DOMAIN-KEYWORD,ftp.
 DOMAIN-SUFFIX,fedoraproject.org
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
