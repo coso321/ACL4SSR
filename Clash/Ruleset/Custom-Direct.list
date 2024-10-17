@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
 
 # finance
-DOMAIN-KEYWORD,westpac
+#DOMAIN-KEYWORD,westpac
 DOMAIN-KEYWORD,amex
 DOMAIN-KEYWORD,americanexpress
 DOMAIN-KEYWORD,mastercard
