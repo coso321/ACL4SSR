@@ -1,6 +1,5 @@
 # proxies
 DOMAIN-SUFFIX,yukiho.click
-DST-PORT,22
 DOMAIN-SUFFIX,gladns.com
 DOMAIN-SUFFIX,glados-config.net
 DOMAIN-SUFFIX,rnode.pro
