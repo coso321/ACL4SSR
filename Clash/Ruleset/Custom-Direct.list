@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,cdn.office.net
 DOMAIN-SUFFIX,vpn.nvidia.com
 DOMAIN,horizonhk.nvidia.com
+DOMAIN,nvbugswb.nvidia.com
 
 DOMAIN,ali-q6-hotfix.sialiagames.com.tw
 DOMAIN-SUFFIX,miaoacg.com
