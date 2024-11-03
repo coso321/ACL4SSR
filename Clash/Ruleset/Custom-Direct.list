@@ -1,6 +1,7 @@
 # proxies
 DOMAIN-SUFFIX,yukiho.click
 DOMAIN-SUFFIX,cloudflare.com
+IP-CIDR,38.150.12.0/24
 
 # ip check
 DOMAIN,freedns.afraid.org
