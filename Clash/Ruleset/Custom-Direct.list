@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,infinitetitan.com
 DOMAIN-KEYWORD,fbsub
 DOMAIN-SUFFIX,6pzfwf.com
 DOMAIN-SUFFIX,cloudflare.com
-IPCIDR,38.150.12.0/24
+IP-CIDR,38.150.12.0/24
 
 # ip check
 DOMAIN,freedns.afraid.org
