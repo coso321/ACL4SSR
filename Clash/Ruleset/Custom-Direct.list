@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,nzb360.com
 DOMAIN-SUFFIX,fedoraproject.org
 DOMAIN-SUFFIX,delivery.mp.microsoft.com
 DOMAIN,downloads.raspberrypi.com
+DOMAIN-SUFFIX,steamcontent.com
 
 DOMAIN,pubsub.plex.tv
 
