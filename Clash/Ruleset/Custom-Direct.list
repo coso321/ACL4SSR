@@ -96,6 +96,7 @@ DOMAIN-SUFFIX,vpn.nvidia.com
 DOMAIN,horizonhk.nvidia.com
 DOMAIN,nvbugswb.nvidia.com
 DOMAIN-SUFFIX,developer.nvidia.com
+DOMAIN-SUFFIX,discourse-cdn.com
 
 DOMAIN,ali-q6-hotfix.sialiagames.com.tw
 DOMAIN-SUFFIX,miaoacg.com
