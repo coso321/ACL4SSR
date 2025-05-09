@@ -23,7 +23,6 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,com.cn
 DOMAIN-SUFFIX,ol.epicgames.com
 DOMAIN,telemetry-console.api.playstation.com
-DOMAIN,fedoraproject.org
 #DOMAIN-SUFFIX,beeper.com
 
 # allowed safe trackers
