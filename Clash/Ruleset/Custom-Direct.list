@@ -115,6 +115,7 @@ DOMAIN,pubsub.plex.tv
 DOMAIN,ali-q6-hotfix.sialiagames.com.tw
 DOMAIN-SUFFIX,gov.au
 DOMAIN-SUFFIX,zerossl.com
+DOMAIN-SUFFIX,rockstargames.com
 
 DST-PORT,8443
 DST-PORT,3478
