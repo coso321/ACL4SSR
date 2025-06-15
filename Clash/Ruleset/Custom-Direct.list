@@ -111,6 +111,7 @@ DOMAIN-SUFFIX,steamcontent.com
 DOMAIN,cdn.resleriana.com
 DOMAIN,mirrors.fedoraproject.org
 DOMAIN,mirrormanager.fedoraproject.org
+DOMAIN,download.copr.fedorainfracloud.org
 
 DOMAIN,pubsub.plex.tv
 
