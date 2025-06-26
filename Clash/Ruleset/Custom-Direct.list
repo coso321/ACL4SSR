@@ -112,6 +112,7 @@ DOMAIN,cdn.resleriana.com
 DOMAIN,mirrors.fedoraproject.org
 DOMAIN,mirrormanager.fedoraproject.org
 DOMAIN,download.copr.fedorainfracloud.org
+DOMAIN,files.pythonhosted.org
 
 DOMAIN,pubsub.plex.tv
 
