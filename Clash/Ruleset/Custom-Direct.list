@@ -95,7 +95,8 @@ DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,cdn.office.net
 DOMAIN-SUFFIX,vpn.nvidia.com
 DOMAIN,horizonhk.nvidia.com
-DOMAIN,nvbugswb.nvidia.com
+# too slow with direct
+# DOMAIN,nvbugswb.nvidia.com
 
 DOMAIN,ali-q6-hotfix.sialiagames.com.tw
 DOMAIN-SUFFIX,miaoacg.com
@@ -112,7 +113,8 @@ DOMAIN,cdn.resleriana.com
 DOMAIN,mirrors.fedoraproject.org
 DOMAIN,mirrormanager.fedoraproject.org
 DOMAIN,download.copr.fedorainfracloud.org
-DOMAIN,files.pythonhosted.org
+# Too slow without it
+# DOMAIN,files.pythonhosted.org
 
 DOMAIN,pubsub.plex.tv
 
