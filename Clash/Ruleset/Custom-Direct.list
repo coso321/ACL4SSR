@@ -110,8 +110,8 @@ DOMAIN-SUFFIX,delivery.mp.microsoft.com
 DOMAIN,downloads.raspberrypi.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN,cdn.resleriana.com
-# Keeps error out with direct
-# DOMAIN,mirrors.fedoraproject.org
+# this errors out from time to time, but it'll recover
+DOMAIN,mirrors.fedoraproject.org
 DOMAIN,mirrormanager.fedoraproject.org
 DOMAIN,download.copr.fedorainfracloud.org
 # Too slow without it
