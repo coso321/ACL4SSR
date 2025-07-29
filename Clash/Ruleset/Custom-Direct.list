@@ -94,6 +94,7 @@ DOMAIN,teams.cloud.microsoft
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,cdn.office.net
 DOMAIN-SUFFIX,vpn.nvidia.com
+DOMAIN-SUFFIX,vpn.nvidia.cn
 DOMAIN,horizonhk.nvidia.com
 # too slow with direct
 # DOMAIN,nvbugswb.nvidia.com
