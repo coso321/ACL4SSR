@@ -98,7 +98,7 @@ DOMAIN-SUFFIX,vpn.nvidia.cn
 DOMAIN,horizonhk.nvidia.com
 # too slow with direct
 # DOMAIN,nvbugswb.nvidia.com
-IP-CIDR,52.115.47.208
+IP-CIDR,52.115.47.0/24
 
 DOMAIN,ali-q6-hotfix.sialiagames.com.tw
 DOMAIN-SUFFIX,miaoacg.com
