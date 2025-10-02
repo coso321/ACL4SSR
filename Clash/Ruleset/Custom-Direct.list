@@ -1,0 +1,135 @@
+# proxies
+DOMAIN-SUFFIX,yukiho.click
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,fbsbx.com
+IP-CIDR,38.150.12.0/24
+
+# ip check
+DOMAIN,freedns.afraid.org
+
+# torrent
+DOMAIN-KEYWORD,peer
+DOMAIN-KEYWORD,torrent
+
+# check first
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,360.cn
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,com.cn
+DOMAIN-SUFFIX,ol.epicgames.com
+DOMAIN,telemetry-console.api.playstation.com
+#DOMAIN-SUFFIX,beeper.com
+
+# allowed safe trackers
+DOMAIN,graph.instagram.com
+DOMAIN,www.googleadservices.com
+DOMAIN,control.kochava.com
+DOMAIN,www.google-analytics.com
+DOMAIN,ssl.google-analytics.com
+DOMAIN,nexus.officeapps.live.com
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,e.crashlytics.com
+DOMAIN,ib.adnxs.com
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googletagservices.com
+
+# finance
+DOMAIN-KEYWORD,westpac
+DOMAIN-KEYWORD,amex
+DOMAIN-KEYWORD,americanexpress
+DOMAIN-KEYWORD,mastercard
+DOMAIN-SUFFIX,australiansuper.com
+DOMAIN-KEYWORD,metatrader
+DOMAIN-KEYWORD,mql
+
+# China CDN
+DOMAIN-SUFFIX,tnkjmec.com
+DOMAIN-SUFFIX,clngaa.com
+DOMAIN-SUFFIX,ksyna.com
+DOMAIN-SUFFIX,bscstorage.net
+DOMAIN-SUFFIX,eccdnx.com
+DOMAIN-SUFFIX,pinyuncloud.com
+DOMAIN-SUFFIX,8686c.com
+DOMAIN-SUFFIX,pphimalayanrt.com
+DOMAIN-SUFFIX,qbox.me
+DOMAIN-SUFFIX,qiniu.com
+DOMAIN-SUFFIX,qiniudn.com
+DOMAIN-SUFFIX,qiniup.com
+DOMAIN-SUFFIX,qnsdk.com
+DOMAIN-SUFFIX,qnssl.com
+DOMAIN-SUFFIX,qiniucdn.com
+DOMAIN-SUFFIX,qiniudns.com
+DOMAIN-SUFFIX,sandai.net
+
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,code.visualstudio.com
+
+IP-CIDR,119.29.29.29/32
+IP-CIDR,114.114.114.114/32
+DOMAIN,dig.bdurl.net
+DOMAIN,pagead2.googlesyndication.com
+
+# LAN
+IP-CIDR,127.0.0.0/8
+IP-CIDR,10.0.0.0/8
+IP-CIDR,17.0.0.0/8
+IP-CIDR,100.64.0.0/10
+IP-CIDR,172.16.0.0/12
+IP-CIDR,192.168.0.0/16
+
+DOMAIN-SUFFIX,wiz.world
+DOMAIN-SUFFIX,tuyaeu.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN,teams.events.data.microsoft.com
+DOMAIN-SUFFIX,teams.microsoft.com
+DOMAIN-KEYWORD,teamsc
+DOMAIN,teams.cloud.microsoft
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,cdn.office.net
+DOMAIN-SUFFIX,vpn.nvidia.com
+DOMAIN-SUFFIX,vpn.nvidia.cn
+DOMAIN,horizonhk.nvidia.com
+# too slow with direct
+# DOMAIN,nvbugswb.nvidia.com
+IP-CIDR,52.115.0.0/16
+IP-CIDR,52.113.0.0/16
+
+DOMAIN,ali-q6-hotfix.sialiagames.com.tw
+DOMAIN-SUFFIX,miaoacg.com
+
+# somewhat don't work with proxy
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,nzb360.com
+
+# direct downloads
+DOMAIN-SUFFIX,delivery.mp.microsoft.com
+DOMAIN,downloads.raspberrypi.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN,steampipe.akamaized.net
+DOMAIN,cdn.resleriana.com
+# this errors out from time to time, but it'll recover
+DOMAIN,mirrors.fedoraproject.org
+DOMAIN,mirrormanager.fedoraproject.org
+DOMAIN,download.copr.fedorainfracloud.org
+# Too slow without it
+# DOMAIN,files.pythonhosted.org
+
+DOMAIN,pubsub.plex.tv
+
+DOMAIN,ali-q6-hotfix.sialiagames.com.tw
+DOMAIN-SUFFIX,gov.au
+DOMAIN-SUFFIX,zerossl.com
+
+DST-PORT,8443
+DST-PORT,3478
+DST-PORT,2377
+
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,paloaltonetworks.com
