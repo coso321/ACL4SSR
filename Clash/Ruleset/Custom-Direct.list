@@ -1,7 +1,8 @@
 # proxies
 DOMAIN-SUFFIX,yukiho.click
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflareinsights.com
+# dashboard won't load
+#DOMAIN-SUFFIX,cloudflare.com
+#DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,fbsbx.com
 IP-CIDR,38.150.12.0/24
 
