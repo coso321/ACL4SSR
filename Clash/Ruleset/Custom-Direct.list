@@ -1,5 +1,6 @@
 # proxies
 DOMAIN-SUFFIX,yukiho.click
+DOMAIN-KEYWORD,laomao
 # dashboard won't load
 #DOMAIN-SUFFIX,cloudflare.com
 #DOMAIN-SUFFIX,cloudflareinsights.com
