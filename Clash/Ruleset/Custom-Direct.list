@@ -135,7 +135,7 @@ DST-PORT,3478
 DST-PORT,2377
 
 DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,paloaltonetworks.com
+# DOMAIN-SUFFIX,paloaltonetworks.com
 
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,wakin.com
