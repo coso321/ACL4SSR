@@ -1,6 +1,6 @@
 # proxies
 DOMAIN-SUFFIX,yukiho.click
-DOMAIN-KEYWORD,laomao
+#DOMAIN-KEYWORD,laomao
 DOMAIN-SUFFIX,1ytnode.com
 # dashboard won't load
 #DOMAIN-SUFFIX,cloudflare.com
