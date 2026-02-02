@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,yukiho.click
 DOMAIN-SUFFIX,laomao-53875.xyz
 DOMAIN-SUFFIX,1ytnode.com
 DOMAIN-SUFFIX,zioseu.com
+DOMAIN,cp.cloudflare.com
+DOMAIN,checkip.dyndns.com
 # dashboard won't load
 #DOMAIN-SUFFIX,cloudflare.com
 #DOMAIN-SUFFIX,cloudflareinsights.com
@@ -140,4 +142,4 @@ DOMAIN-SUFFIX,playstation.net
 # DOMAIN-SUFFIX,paloaltonetworks.com
 
 DOMAIN-SUFFIX,akamai.net
-DOMAIN-SUFFIX,wakin.com
+# DOMAIN-SUFFIX,wakin.com
