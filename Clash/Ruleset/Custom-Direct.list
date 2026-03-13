@@ -103,6 +103,7 @@ DOMAIN-SUFFIX,cdn.office.net
 DOMAIN-SUFFIX,vpn.nvidia.com
 DOMAIN-SUFFIX,vpn.nvidia.cn
 DOMAIN,horizonhk.nvidia.com
+DOMAIN,cloud-auth.us.apps.paloaltonetworks.com
 # too slow with direct
 # DOMAIN,nvbugswb.nvidia.com
 IP-CIDR,52.115.0.0/16
