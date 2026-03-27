@@ -121,6 +121,8 @@ DOMAIN,downloads.raspberrypi.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN,steampipe.akamaized.net
 DOMAIN,cdn.resleriana.com
+DOMAIN,dl.snapcdn.app
+DOMAIN,beeper-desktop.download.beeper.com
 # this errors out from time to time, but it'll recover
 DOMAIN,mirrors.fedoraproject.org
 DOMAIN,mirrormanager.fedoraproject.org
@@ -145,4 +147,3 @@ DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,wakin.com
 
 DOMAIN-KEYWORD,bigme
-DOMAIN,dl.snapcdn.app
