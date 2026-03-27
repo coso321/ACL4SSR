@@ -127,6 +127,8 @@ DOMAIN,beeper-desktop.download.beeper.com
 DOMAIN,mirrors.fedoraproject.org
 DOMAIN,mirrormanager.fedoraproject.org
 DOMAIN,download.copr.fedorainfracloud.org
+DOMAIN,archlinux.cachyos.org
+DOMAIN,aur.archlinux.org
 # Too slow without it
 # DOMAIN,files.pythonhosted.org
 
