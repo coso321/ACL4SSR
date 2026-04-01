@@ -127,15 +127,18 @@ DOMAIN,dl.snapcdn.app
 
 # too slow
 # DOMAIN,beeper-desktop.download.beeper.com
-# this errors out from time to time, but it'll recover
+#
 DOMAIN-KEYWORD,mirror
+
+# this errors out from time to time, but it'll recover
 DOMAIN,mirrors.fedoraproject.org
 DOMAIN,mirrormanager.fedoraproject.org
 DOMAIN,download.copr.fedorainfracloud.org
 
-# has trouble connecting
-# DOMAIN,archlinux.cachyos.org
+# this errors out from time to time, but it'll recover
+DOMAIN,archlinux.cachyos.org
 DOMAIN,aur.archlinux.org
+
 # Too slow without it
 # DOMAIN,files.pythonhosted.org
 
