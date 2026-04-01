@@ -129,7 +129,9 @@ DOMAIN,beeper-desktop.download.beeper.com
 DOMAIN,mirrors.fedoraproject.org
 DOMAIN,mirrormanager.fedoraproject.org
 DOMAIN,download.copr.fedorainfracloud.org
-DOMAIN,archlinux.cachyos.org
+
+# has trouble connecting
+# DOMAIN,archlinux.cachyos.org
 DOMAIN,aur.archlinux.org
 # Too slow without it
 # DOMAIN,files.pythonhosted.org
@@ -151,3 +153,5 @@ DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,wakin.com
 
 DOMAIN-KEYWORD,bigme
+
+DST-PORT,8886
