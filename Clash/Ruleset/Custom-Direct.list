@@ -124,7 +124,9 @@ DOMAIN-SUFFIX,steamcontent.com
 DOMAIN,steampipe.akamaized.net
 DOMAIN,cdn.resleriana.com
 DOMAIN,dl.snapcdn.app
-DOMAIN,beeper-desktop.download.beeper.com
+
+# too slow
+# DOMAIN,beeper-desktop.download.beeper.com
 # this errors out from time to time, but it'll recover
 DOMAIN-KEYWORD,mirror
 DOMAIN,mirrors.fedoraproject.org
