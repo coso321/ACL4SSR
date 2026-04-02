@@ -127,8 +127,7 @@ DOMAIN,dl.snapcdn.app
 
 # too slow
 # DOMAIN,beeper-desktop.download.beeper.com
-#
-DOMAIN-KEYWORD,mirror
+# DOMAIN-KEYWORD,mirror
 
 # this errors out from time to time, but it'll recover
 DOMAIN,mirrors.fedoraproject.org
