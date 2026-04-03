@@ -134,8 +134,8 @@ DOMAIN,mirrors.fedoraproject.org
 DOMAIN,mirrormanager.fedoraproject.org
 DOMAIN,download.copr.fedorainfracloud.org
 
-# this errors out from time to time, but it'll recover
-DOMAIN,archlinux.cachyos.org
+# too slow with direct
+# DOMAIN,archlinux.cachyos.org
 DOMAIN,aur.archlinux.org
 
 # Too slow without it
