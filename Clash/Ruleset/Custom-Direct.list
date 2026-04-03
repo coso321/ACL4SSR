@@ -134,8 +134,7 @@ DOMAIN,mirrors.fedoraproject.org
 DOMAIN,mirrormanager.fedoraproject.org
 DOMAIN,download.copr.fedorainfracloud.org
 
-# too slow with direct
-# DOMAIN,archlinux.cachyos.org
+DOMAIN,archlinux.cachyos.org
 DOMAIN,aur.archlinux.org
 
 # Too slow without it
