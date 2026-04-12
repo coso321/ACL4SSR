@@ -159,3 +159,5 @@ DOMAIN-SUFFIX,wakin.com
 DOMAIN-KEYWORD,bigme
 
 DST-PORT,8886
+# steam link
+DST-PORT,27046
