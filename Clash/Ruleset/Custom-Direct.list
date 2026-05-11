@@ -135,6 +135,7 @@ DOMAIN,mirrormanager.fedoraproject.org
 DOMAIN,download.copr.fedorainfracloud.org
 
 DOMAIN,archlinux.cachyos.org
+DOMAIN,cdn77.cachyos.org
 DOMAIN,aur.archlinux.org
 
 # Too slow without it
