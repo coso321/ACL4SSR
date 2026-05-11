@@ -164,5 +164,5 @@ DST-PORT,27000-28000
 
 DOMAIN-SUFFIX,pytorch.org
 DOMAIN-SUFFIX,teleport.sh
-DOMAIN-SUFFIX,talon-sec.com
-DOMAIN-SUFFIX,prismaaccess.com
+DOMAIN-KEYWORD,talon-sec.com
+DOMAIN-KEYWORD,prismaaccess.com
