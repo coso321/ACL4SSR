@@ -164,5 +164,6 @@ DST-PORT,27000-28000
 
 DOMAIN-SUFFIX,pytorch.org
 DOMAIN-KEYWORD,teleport.sh
+DOMAIN-KEYWORD,teleportinfra.sh
 DOMAIN-KEYWORD,talon-sec.com
 DOMAIN-KEYWORD,prismaaccess.com
