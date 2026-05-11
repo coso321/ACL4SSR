@@ -163,6 +163,6 @@ DST-PORT,8886
 DST-PORT,27000-28000
 
 DOMAIN-SUFFIX,pytorch.org
-DOMAIN-SUFFIX,teleport.sh
+DOMAIN-KEYWORD,teleport.sh
 DOMAIN-KEYWORD,talon-sec.com
 DOMAIN-KEYWORD,prismaaccess.com
