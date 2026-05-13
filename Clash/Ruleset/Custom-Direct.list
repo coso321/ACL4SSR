@@ -164,8 +164,10 @@ DST-PORT,8886
 DST-PORT,27000-28000
 
 DOMAIN-SUFFIX,pytorch.org
-DOMAIN-KEYWORD,teleport.sh
-DOMAIN-KEYWORD,teleportinfra.sh
+
+# too slow with direct
+# DOMAIN-KEYWORD,teleport.sh
+# DOMAIN-KEYWORD,teleportinfra.sh
 DOMAIN-KEYWORD,talon-sec.com
 DOMAIN-KEYWORD,prismaaccess.com
 DOMAIN-KEYWORD,argotunnel.com
