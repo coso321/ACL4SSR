@@ -170,3 +170,6 @@ DOMAIN-KEYWORD,teleportinfra.sh
 DOMAIN-KEYWORD,talon-sec.com
 DOMAIN-KEYWORD,prismaaccess.com
 DOMAIN-KEYWORD,argotunnel.com
+
+# 大道仙途
+DST-PORT,5228
