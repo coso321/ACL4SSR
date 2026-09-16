@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,laomao-dns
 DOMAIN-SUFFIX,1ytsub.com
 DOMAIN-SUFFIX,1ytnode.com
 DOMAIN-SUFFIX,zioseu.com
+DOMAIN-SUFFIX,flowaccess.org
 DOMAIN,cp.cloudflare.com
 DOMAIN,checkip.dyndns.com
 # dashboard won't load
@@ -53,7 +54,8 @@ DOMAIN-KEYWORD,westpac
 DOMAIN-KEYWORD,amex
 DOMAIN-KEYWORD,americanexpress
 DOMAIN-KEYWORD,mastercard
-DOMAIN-SUFFIX,australiansuper.com
+# too slow with direct
+# DOMAIN-SUFFIX,australiansuper.com
 DOMAIN-KEYWORD,metatrader
 DOMAIN-KEYWORD,mql
 
